@@ -1,0 +1,16 @@
+8 14 U
+A B 5
+B C 3
+A D 9
+D E 2
+E F 1
+B F 4
+C G 8
+G H 7
+D H 6
+A G 5
+B E 3
+C F 7
+D G 1
+E H 8
+B
